@@ -1,0 +1,19 @@
+.menu__header{
+    display: flex;
+    height: 3rem;
+    align-items: center;
+    
+}
+
+.menu__title{
+    margin-left: 10px;
+}
+
+
+
+
+@media (max-width: 425px) {
+    .menu__header img {
+        height: 1.2rem;
+    }
+}

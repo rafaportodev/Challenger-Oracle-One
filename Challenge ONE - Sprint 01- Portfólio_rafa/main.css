@@ -1,0 +1,41 @@
+:root {
+    --color-primeira: #F2CB05;
+    --color-segunda: #F5F5F5;
+    --color-terceira: #EAF2FD;
+    --color-quarta: #F2F2F2;
+    --color-quinta: #0D0D0D;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+
+}
+
+ol,
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+input,
+button,
+textarea {
+    color: var(--color-quinto);
+    border: none;
+    outline: none;
+}

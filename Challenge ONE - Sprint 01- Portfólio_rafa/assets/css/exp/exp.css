@@ -1,0 +1,15 @@
+.experience {
+    padding: 2rem;
+    background-color: var(--color-quarta);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.experience__section__title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #464646;
+
+}
